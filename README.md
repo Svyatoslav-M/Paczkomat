@@ -31,7 +31,7 @@ funkcję do wyjmowania paczki ze skrzynki,
 
 losowanie 6-cyfrowego kodu otwierającego skrzynkę po umieszczeniu paczki przyporządkowanego do danej skrzynki.
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 The program simulates the operation of a parcel box consisting of boxes of three sizes: small, medium and large.
 
@@ -65,4 +65,3 @@ a function to take a package out of a box,
 
 draw a 6-digit code to open the box after placing a package assigned to the box.
 
-Translated with www.DeepL.com/Translator (free version)
